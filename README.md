@@ -16,25 +16,41 @@ I build **hands-on security labs and tooling** that model how modern systems act
 ---
 
 ### Active Labs & Projects
-🔐 **Sigstore & SLSA Labs**  
-Artifact signing, attestations, provenance verification across CI/CD pipelines
 
-📦 **SBOM at Scale**  
-Multi-repo SBOM generation, correlation, and product-level visibility
+🔐 **ASI04Lab**  
+Supply chain vulnerability labs aligned with **OWASP Top 10 for Agentic Applications (ASI-04)**. Focuses on dependency trust, provenance gaps, and attacker-controlled build inputs.
 
-☁️ **Cloud Supply Chain Attack Simulation**  
-Rogue dependency → CI compromise → AWS S3 exfiltration → multi-cloud pivot
+🧬 **OWASP-GenAI Projects**  
+Central collection of labs and research artifacts covering OWASP GenAI Top 10 risks, reference implementations, and release-aligned security experiments.
 
-🤖 **Agentic AI Security Labs**  
-IAM drift, prompt abuse, unsandboxed tools, and autonomous lateral movement
+🔄 **ASI-04: Insecure MCP Registry Switch with Provenance**  
+Hands-on lab demonstrating an **MCP supply chain compromise**, registry switching attacks, and mitigation using provenance and signing.  
+Tech: Python • MIT License
 
-⚙️ **CI/CD Abuse Scenarios**  
-GitHub Actions compromises, secret leakage, and workflow trust failures
+🛡️ **Local Security Assistant**  
+Local-first LLM for **security architecture review**. Designed for offline analysis, document-grounded reasoning, and reduced data exfiltration risk.
 
-🌾 **Critical Industry Threat Modeling**  
-Farm-to-food manufacturing, automotive, and connected systems
+🔐 **Homas**  
+TLS experimentation lab with **10-instance Docker Compose setup**, focused on certificate handling, trust chains, and secure service-to-service communication.
 
----
+🧠 **LLM Training Assistant**  
+Experiments around training and evaluating LLMs for security-related reasoning and controlled task execution.
+
+⚠️ **Vulnerable GitHub Actions Lab**  
+CI/CD attack lab covering **workflow abuse, secret exposure, and token compromise** in GitHub Actions pipelines.
+
+🐳 **C-S Lab Test**  
+Container-focused security experiments using Dockerfiles to demonstrate misconfigurations and build-time risks.
+
+☁️ **Cloud Supply Chain Demo**  
+End-to-end **cloud supply chain attack simulation**: rogue dependency → CI compromise → cloud data exfiltration → lateral movement.
+
+📘 **SupplyChainSoftwareSecurity**  
+Source material and references for the Apress publication  
+*Supply Chain Software Security – AI, IoT, Application Security*.
+
+🔏 **Cosign Repo**  
+Artifact signing and verification experiments using **Cosign**, focused on trust enforcement in CI/CD pipelines.
 
 ### Open Source & Community
 - OWASP GenAI Supply Chain Project – Co-Lead  
