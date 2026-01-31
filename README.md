@@ -1,4 +1,4 @@
-## Hi, I’m Aamiruddin Syed 👋  
+## Hi, I’m Aamir 👋  
 🛡️ Software Supply Chain • Cloud & CI/CD Security • Agentic AI Threats  
 Author | Builder | Security Architect
 
