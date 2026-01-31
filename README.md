@@ -1,61 +1,67 @@
-# Aamir
-Hi, I’m Aamir 👋
+## Hi, I’m Aamiruddin Syed 👋  
+🛡️ Software Supply Chain • Cloud & CI/CD Security • Agentic AI Threats  
+Author | Builder | Security Architect
 
-🛡️ Software Supply Chain & Cloud Security | 🤖 Agentic AI Security
-Author • Speaker • Builder • Advisor
+I build **hands-on security labs and tooling** that model how modern systems actually fail — CI/CD abuse, cloud misconfigurations, dependency poisoning, and autonomous agent misuse. My work focuses on turning abstract risks into reproducible attack paths and defensible controls.
 
-I work at the intersection of DevSecOps, software supply chain security, and agentic AI. My focus is practical security: how real systems break, how attackers chain weaknesses, and how to design controls that actually hold up in CI/CD, cloud, and AI-driven workflows.
+---
 
-I spend most of my time building labs, writing, and working with engineering teams to move security left without slowing delivery.
+### What I Build
+- Software supply chain security labs (SBOM, provenance, signing)
+- CI/CD attack simulations (token theft, pipeline poisoning)
+- Cloud exploitation paths (IAM abuse, lateral movement, data exfiltration)
+- Agentic AI & LLM security demos (tool misuse, prompt-driven actions)
+- DevSecOps automation that survives real attacker behavior
 
-Core Focus Areas
+---
 
-Software Supply Chain Security
-Agentic AI & LLM Threat Modeling
-Cloud & CI/CD Security
-DevSecOps Automation
-Infrastructure as Code Security
-Internal & Cloud-Focused Penetration Testing
+### Active Labs & Projects
+🔐 **Sigstore & SLSA Labs**  
+Artifact signing, attestations, provenance verification across CI/CD pipelines
 
-Current Work
+📦 **SBOM at Scale**  
+Multi-repo SBOM generation, correlation, and product-level visibility
 
-🧠 OWASP GenAI Supply Chain Project (Co-Lead) – Defining threats, controls, and design patterns for AI-native supply chains
-☁️ CSA Agentic AI Initiative (Contributor) – Security guidance for autonomous agents
-📘 Author – Supply Chain Software Security – AI, IoT, Application Security (Apress / Springer)
-🎙️ Podcast Host – Helping newcomers break into cybersecurity with real-world guidance
-🧪 Hands-on Labs – Cloud, CI/CD, SBOM, provenance, and AI attack simulations
+☁️ **Cloud Supply Chain Attack Simulation**  
+Rogue dependency → CI compromise → AWS S3 exfiltration → multi-cloud pivot
 
-Active Projects & Labs
+🤖 **Agentic AI Security Labs**  
+IAM drift, prompt abuse, unsandboxed tools, and autonomous lateral movement
 
-🔐 Sigstore & SLSA Labs – Artifact signing, provenance, and CI/CD trust chains
-📦 SBOM at Scale – Generating and correlating SBOMs across multi-repo products
-🧪 Cloud Supply Chain Attack Simulation – Rogue dependency → data exfil → multi-cloud pivot
-🤖 Agentic AI Security Labs – Prompt abuse, tool misuse, IAM drift, and lateral movement
-🌾 Cybersecurity for Farm-to-Food & Automotive Systems – Threat modeling critical industries
-⚙️ CI/CD Abuse Scenarios – GitHub Actions, token theft, and pipeline poisoning
+⚙️ **CI/CD Abuse Scenarios**  
+GitHub Actions compromises, secret leakage, and workflow trust failures
 
-Certifications
+🌾 **Critical Industry Threat Modeling**  
+Farm-to-food manufacturing, automotive, and connected systems
 
-GIAC GCSA
-CISA
-AWS Certified (2×)
-SANS Cloud Security & Automation (2024)
+---
 
-Writing & Speaking
+### Open Source & Community
+- OWASP GenAI Supply Chain Project – Co-Lead  
+- CSA Agentic AI Initiative – Contributor  
+- Security workshops, live demos, and conference talks
 
-✍️ Writing on software supply chain security, AI risk, and CI/CD abuse
-🎤 International speaker at security conferences and community events
-🧑‍🏫 Workshops and live demos focused on attacker tradecraft and defensive design
+---
 
-What I’m Doing Now
+### Tooling & Domains
+CI/CD Security • Cloud IAM • Kubernetes  
+SBOM • SLSA • Sigstore • Falco  
+AWS • GCP • GitHub Actions  
+Threat Modeling • Internal Pentesting  
+LLMs • Agentic AI • Automation
 
-Building security labs that mirror real attacker behavior
-Researching agent autonomy risks in cloud and CI/CD
-Advising startups on product and AI security architecture
-Teaching engineers how to break their own systems safely
+---
 
-Philosophy
+### Certifications
+GIAC GCSA  
+CISA  
+AWS Certified (2×)  
+SANS Cloud Security & Automation 
 
-Security should be designed, not bolted on.
-If a control can’t survive automation, attackers will outpace it.
-Good security enables speed by removing uncertainty.
+
+### Philosophy
+If it can be automated, it can be abused.  
+Security controls must assume **speed, scale, and autonomy** — or they fail.
+
+
+📌 Pinned repos below highlight labs, demos, and security tooling.
