@@ -76,7 +76,7 @@ SANS Cloud Security & Automation
 
 ### Philosophy
 If it can be automated, it can be abused.  
-Security controls must assume **speed, scale, and autonomy** — or they fail.
+Security controls must assume **speed, scale, and autonomy** or they fail.
 
 
 📌 Pinned repos below highlight labs, demos, and security tooling.
