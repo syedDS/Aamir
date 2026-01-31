@@ -73,6 +73,33 @@ CISA
 AWS Certified (2×)  
 SANS Cloud Security & Automation 
 
+### Speaking & Conference Engagements
+
+#### Upcoming Speaking
+**Breaking the Toolchain: Supply-Chain Risks in Agentic Automation**  
+May 2026 · HAckMiami 26  
+
+**Taming the AI Identity Explosion: Securing Agentic AI and Non-Human Identities**  
+Feb 2026 · EN  
+- BSides Seattle 2026  
+
+---
+
+#### Past
+**Taming the AI Identity Explosion: Securing Agentic AI and Non-Human Identities**  
+Sept 25
+- DevSecCon25 – Securing the Shift to AI Native  
+**Hidden Risks of Cloud Supply Chains: Securing Third-Party Integrations**  
+May 2025 · EN  
+
+**Generative AI in Supply Chain Security: How I Mitigated Container Threats Before a Compliance Disaster**  
+July 2025 · EN  
+
+**Generative AI in Supply Chain Security: Enhancing Container Protection Amid Regulatory Challenges**  
+November 2024 · EN  
+
+**Hands-On Container Image Security: Mastering Sigstore for Unbreachable Integrity**  
+October 2024 · EN  
 
 ### Philosophy
 If it can be automated, it can be abused.  
