@@ -25,7 +25,6 @@ Central collection of labs and research artifacts covering OWASP GenAI Top 10 ri
 
 🔄 **ASI-04: Insecure MCP Registry Switch with Provenance**  
 Hands-on lab demonstrating an **MCP supply chain compromise**, registry switching attacks, and mitigation using provenance and signing.  
-Tech: Python • MIT License
 
 🛡️ **Local Security Assistant**  
 Local-first LLM for **security architecture review**. Designed for offline analysis, document-grounded reasoning, and reduced data exfiltration risk.
