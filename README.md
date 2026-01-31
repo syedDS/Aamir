@@ -2,7 +2,7 @@
 🛡️ Software Supply Chain • Cloud & CI/CD Security • Agentic AI Threats  
 Author | Builder | Security Architect
 
-I build **hands-on security labs and tooling** that model how modern systems actually fail — CI/CD abuse, cloud misconfigurations, dependency poisoning, and autonomous agent misuse. My work focuses on turning abstract risks into reproducible attack paths and defensible controls.
+I build **hands-on security labs and tooling** that model how modern systems actually fail  CI/CD abuse, cloud misconfigurations, dependency poisoning, and autonomous agent misuse. My work focuses on turning abstract risks into reproducible attack paths and defensible controls.
 
 ---
 
