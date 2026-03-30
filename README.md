@@ -88,6 +88,7 @@ Feb 2026 · EN
 #### Past
 ** Agentic AI Supply Chain Vulnerable LAB** Mar 26
     - RSA Cloud Village
+    
 **Taming the AI Identity Explosion: Securing Agentic AI and Non-Human Identities**  
 Sept 25
 - DevSecCon25 – Securing the Shift to AI Native  
