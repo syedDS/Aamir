@@ -86,20 +86,22 @@ Feb 2026 · EN
 ---
 
 #### Past
+** Agentic AI Supply Chain Vulnerable LAB** Mar 26
+    - RSA Cloud Village
 **Taming the AI Identity Explosion: Securing Agentic AI and Non-Human Identities**  
 Sept 25
 - DevSecCon25 – Securing the Shift to AI Native  
 **Hidden Risks of Cloud Supply Chains: Securing Third-Party Integrations**  
-May 2025 · EN  
+May 2025 · RSA Cloud Village  
 
 **Generative AI in Supply Chain Security: How I Mitigated Container Threats Before a Compliance Disaster**  
-July 2025 · EN  
+July 2025 · DevOpsDays Canada  
 
 **Generative AI in Supply Chain Security: Enhancing Container Protection Amid Regulatory Challenges**  
-November 2024 · EN  
+November 2024 · Blackhat MEA  
 
 **Hands-On Container Image Security: Mastering Sigstore for Unbreachable Integrity**  
-October 2024 · EN  
+August 2024 · Defcon Cloud Village  
 
 ### Philosophy
 If it can be automated, it can be abused.  
