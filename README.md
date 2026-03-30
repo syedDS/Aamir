@@ -19,7 +19,7 @@ I build **hands-on security labs and tooling** that model how modern systems act
 
 🔐 **ASI04Lab**  
 Supply chain vulnerability labs aligned with **OWASP Top 10 for Agentic Applications (ASI-04)**. Focuses on dependency trust, provenance gaps, and attacker-controlled build inputs.
-
+https://github.com/syedDS/ASI4-Labs-Demo
 🧬 **OWASP-GenAI Projects**  
 Central collection of labs and research artifacts covering OWASP GenAI Top 10 risks, reference implementations, and release-aligned security experiments.
 
